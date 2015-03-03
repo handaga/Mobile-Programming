@@ -1,2 +1,3 @@
-# cms
-learning to creaqte simple cms using php &amp; mysql
+# Mobile Programming
+
+In this class we will learn how to developt mobile "android" app using Java Language
