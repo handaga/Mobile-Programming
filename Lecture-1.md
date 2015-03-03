@@ -5,7 +5,7 @@
 # kode: 
 TIF81143 
  
-# ntroduction: 
+# Introduction: 
  
 There are 5 big market mobile phone: (1) Android, (2) Windows Phone, (3) iPhone, (4) Blackberry, dan (5) yang lainnya
  
